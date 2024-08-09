@@ -3,8 +3,8 @@ import random
 import shutil
 
 # Dosyaların bulunduğu klasörler
-source_folder = "C:/Users/enesi/OneDrive - Akdeniz Üniversitesi/Masaüstü/Robogor/learningDatas/validation"  # Orijinal dosyaların olduğu klasör
-destination_folder = "C:/Users/enesi/OneDrive - Akdeniz Üniversitesi/Masaüstü/Robogor/learningDatas/train"  # Dosyaların taşınacağı hedef klasör
+source_folder = "KAYNAK_KLASOR"  # Orijinal dosyaların olduğu klasör
+destination_folder = "HEDEF_KLASOR"  # Dosyaların taşınacağı hedef klasör
 
 # Tüm dosya çiftlerini listele
 file_pairs = {}
